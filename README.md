@@ -1,6 +1,7 @@
-# 🍕 RRS
-Restaurant Reservation System
+# 🍕 RRS (Restaurant Reservation System)
+> 음식점에서 음식을 주문한 후 기다리는 시간을 절약하기 위한 음식점 예약 시스템
 
+<br>
 
 ## 🌼 기능
 ### 사용자
